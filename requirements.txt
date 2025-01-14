@@ -5,3 +5,14 @@ itsdangerous==1.1.0
 Jinja2==2.11.3
 MarkupSafe==1.1.1
 Werkzeug==1.0.1
+flask==2.0.1
+flask-cors==3.0.10
+python-dotenv==1.0.0
+--find-links https://download.pytorch.org/whl/torch_stable.html
+torch==2.2.1+cpu
+transformers==4.37.2
+librosa==0.10.1
+numpy>=1.23.5,<1.24.0
+gunicorn==20.1.0
+setuptools>=65.5.1
+wheel>=0.38.0
